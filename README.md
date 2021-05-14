@@ -1,2 +1,2 @@
 # Segundo_Modulo
-Para git
+Para praticar git no curso
